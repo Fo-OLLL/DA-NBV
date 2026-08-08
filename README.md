@@ -42,7 +42,7 @@ To address these challenges, we propose DA-NBV, a direction-aware NBV policy tha
 
 ## Maritime Simulation Environment
 <div align="center">
-  <img src="Figures/environment.gif" width=70%>
+  <img src="Figures/environment.gif" width=100%>
   <div style="display: inline-block; color: #999; padding: 2px;">
   </div>
 </div>
@@ -52,7 +52,7 @@ We develop a simulation environment for offshore scanning tasks that models real
 
 ## SeaShip-3D Dataset
 <div align="center">
-  <img src="Figures/SeaShip-3D dataset.gif" width=70%>
+  <img src="Figures/SeaShip-3D dataset.gif" width=100%>
   <div style="display: inline-block; color: #999; padding: 2px;">
   </div>
 </div>
@@ -67,10 +67,11 @@ We construct the SeaShip-3D dataset, which contains 300 ship models with diverse
   <div style="display: inline-block; color: #999; padding: 2px;">
   </div>
 </div>
-    Overview of DA-NBV.
-    Motion-compensated depth observations update the occupancy grid, voxel-wise direction-vector grid, and geometric complexity grid .
-    The Learnable Position Advantage Scorer (LPAS) evaluates voxel--candidate-position pairs using viewing-direction alignment, visibility, distance, and geometric complexity, and aggregates their utilities into the PAF.
-    The encoded occupancy, PAF, UAV state, and action history are fused to predict position, orientation, and termination.
+
+Overview of DA-NBV.
+Motion-compensated depth observations update the occupancy grid, voxel-wise direction-vector grid, and geometric complexity grid .
+The Learnable Position Advantage Scorer (LPAS) evaluates voxel--candidate-position pairs using viewing-direction alignment, visibility, distance, and geometric complexity, and aggregates their utilities into the PAF.
+The encoded occupancy, PAF, UAV state, and action history are fused to predict position, orientation, and termination.
 
 ---
 
@@ -79,7 +80,8 @@ We construct the SeaShip-3D dataset, which contains 300 ship models with diverse
   <div style="display: inline-block; color: #999; padding: 2px;">
   </div>
 </div>
-Compared with existing methods, DA-NBV achieves greater surface coverage with higher path efficiency.
+
+DA-NBV outperforms the baselines in reconstruction completeness, accuracy, and acquisition efficiency across the evaluated dynamic sea environment and both static datasets. Compared with existing methods, DA-NBV achieves greater surface coverage with higher path efficiency. Moreover, DA-NBV remains competitive on Houses3K and OmniObject3D, indicating its generalizability to different types of static objects.
 
 ---
 
@@ -88,7 +90,9 @@ Compared with existing methods, DA-NBV achieves greater surface coverage with hi
   <div style="display: inline-block; color: #999; padding: 2px;">
   </div>
 </div>
+
 DA-NBV produces more complete reconstructions with finer geometric details.
 
+---
 
 
