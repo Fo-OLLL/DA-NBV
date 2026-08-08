@@ -2,19 +2,22 @@
 <h1>DA-NBV: A Direction-Aware Next-Best-View Planner for Efficient 3D  Reconstruction of Ships at Sea</h1>
 
 <div>
-  Jiaming Chen;
-  Juntao Yang;
-  Zhentao Zou;
-  Qi Ming;
-  Zhihang Zhong;
-  <a href='https://yangxue.site/' target='_blank'>Xue Yang</a><sup></sup>&emsp;
-  <a href='https://ee.sjtu.edu.cn/FacultyDetail.aspx?id=53&infoid=66' target='_blank'>Xue Jiang</a><sup></sup>&emsp;
-  <a href='https://zytx121.github.io/' target='_blank'>Yue Zhou</a><sup></sup>&emsp;
+  Jiaming Chen<sup>1</sup>;
+  Juntao Yang<sup>1</sup>;
+  Zhentao Zou<sup>2</sup>;
+  Qi Ming<sup>3</sup>;
+  Yi Yu<sup>4</sup>;
+  Zhihang Zhong<sup>2</sup>;
+  <a href='https://yangxue.site/' target='_blank'>Xue Yang</a><sup>2</sup>;
+  Xue Jiang<sup>2</sup>;
+  <a href='https://zytx121.github.io/' target='_blank'>Yue Zhou</a><sup>1</sup>
 </div>
 
 <div>
-    <sup></sup>East China Normal University&emsp; 
-    <sup></sup>Shanghai Jiao Tong University &emsp; 
+    <sup>1</sup>East China Normal University&emsp; 
+    <sup>2</sup>Shanghai Jiao Tong University &emsp; 
+    <sup>3</sup>Beijing University of Technology &emsp; 
+    <sup>4</sup>The Ohio State University &emsp; 
 </div>
 
 </div>
