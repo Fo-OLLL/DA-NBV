@@ -3,7 +3,7 @@
 
 <div>
   Jiaming Chen<sup>1∗</sup>;
-  Juntao Yang<sup>1∗</sup>;
+  Juntao Yang<sup>1∗</sup>;<br>
   Zhentao Zou<sup>2</sup>;
   Qi Ming<sup>3</sup>;
   Yi Yu<sup>4</sup>;
@@ -14,10 +14,10 @@
 </div>
 
 <div>
-    <sup>1</sup>East China Normal University&emsp; 
+    <sup>1</sup>East China Normal University <br>
     <sup>2</sup>Shanghai Jiao Tong University &emsp; 
     <sup>3</sup>Beijing University of Technology &emsp; 
-    <sup>4</sup>The Ohio State University &emsp; 
+    <sup>4</sup>The Ohio State University
 </div>
 <div>
   <sup>*</sup> Equal contribution.
