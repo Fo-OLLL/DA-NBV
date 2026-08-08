@@ -30,7 +30,6 @@
 <div align="center">
   <img src="Figures/compare.png" width=100%>
   <div style="display: inline-block; color: #999; padding: 2px;">
-      Comparison of conventional and DA-NBV scanning strategies.
   </div>
 </div>
 
