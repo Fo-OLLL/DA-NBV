@@ -42,7 +42,7 @@ To address these challenges, we propose DA-NBV, a direction-aware NBV policy tha
 
 ## Maritime Simulation Environment
 <div align="center">
-  <img src="Figures/environment.gif" width=50%>
+  <img src="Figures/environment.gif" width=80%>
   <div style="display: inline-block; color: #999; padding: 2px;">
   </div>
 </div>
