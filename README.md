@@ -24,6 +24,8 @@
   <sup>†</sup> Corresponding author.
 </div>
 
+[![Paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](http://arxiv.org/abs/2608.08025)
+
 </div>
 
 <p align="center">
