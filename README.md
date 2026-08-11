@@ -32,6 +32,14 @@
 
 ---
 
+<div align="center">
+  <img src="Figures/inspect.gif" width=100%>
+  <div style="display: inline-block; color: #999; padding: 2px;">
+  </div>
+</div>
+
+---
+
 ## Abstract
 
 <div align="center">
@@ -100,5 +108,3 @@ DA-NBV outperforms the baselines in reconstruction completeness, accuracy, and a
 DA-NBV produces more complete reconstructions with finer geometric details.
 
 ---
-
-
